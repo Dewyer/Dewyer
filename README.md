@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Dewyer, @Netherlands
+🖧 Currently working on distributed systems with 🦀**Rust**.
+
+📫 You can reach me at: *dewyerer@gmail.com*
